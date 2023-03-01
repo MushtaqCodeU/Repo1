@@ -18,7 +18,7 @@ public class TestClass {
     
     driver.get("https://www.Google.com");
     
-    driver.close();
+    //mushtaq
 	}
 	
 	@AfterTest
