@@ -17,7 +17,8 @@ public class TestClass {
     driver= new ChromeDriver();
     
     driver.get("https://www.Google.com");
-      
+    
+    driver.close();
 	}
 	
 	@AfterTest
